@@ -6,12 +6,24 @@ hero:
   name: "Star Wars Attack"
   text: "Revue de code sur Star Wars Attack"
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Alexandre Wattel semaine 1
+      link: alexandre-wattel/alexandre-wattel-week-one.md
+    - theme: alt
+      text: Alexandre Wattel semaine 2
+      link: alexandre-wattel/alexandre-wattel-week-two.md
+    - theme: alt
+      text: Alexandre Wattel semaine 3
+      link: alexandre-wattel/alexandre-wattel-week-three.md
+    - theme: alt
+      text: Antoine Leclerc semaine 1
+      link: antoine-leclerc/antoine-leclerc-week-one.md
+    - theme: alt
+      text: Antoine Leclerc semaine 2
+      link: antoine-leclerc/antoine-leclerc-week-one.md
+    - theme: alt
+      text: Antoine Leclerc semaine 3
+      link: antoine-leclerc/antoine-leclerc-week-one.md
 
 features:
   - title: Feature A
