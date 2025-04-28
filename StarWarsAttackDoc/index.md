@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: alt
       text: Alexandre Wattel semaine 1
-      link: alexandre-wattel/alexandre-wattel-week-one.md
+      link: StarWarsAttackDoc/alexandre-wattel/alexandre-wattel-week-one.md
     - theme: alt
       text: Alexandre Wattel semaine 2
       link: alexandre-wattel/alexandre-wattel-week-two.md
