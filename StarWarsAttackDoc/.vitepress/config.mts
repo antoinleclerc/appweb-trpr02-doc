@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: "Revue de code",
         items: [
-          { text: "Antoine Leclerc", link: "/antoine-leclerc" },
+          { text: "Antoine Leclerc", link: "/StarWarsAttackDoc/antoine-leclerc" },
           { text: "Alexandre Wattel", link: "/alexandre-wattel" },
         ],
       }
