@@ -20,10 +20,10 @@ hero:
       link: antoine-leclerc/antoine-leclerc-week-one.md
     - theme: alt
       text: Antoine Leclerc semaine 2
-      link: antoine-leclerc/antoine-leclerc-week-one.md
+      link: antoine-leclerc/antoine-leclerc-week-two.md
     - theme: alt
       text: Antoine Leclerc semaine 3
-      link: antoine-leclerc/antoine-leclerc-week-one.md
+      link: antoine-leclerc/antoine-leclerc-week-three.md
 
 features:
   - title: Feature A
