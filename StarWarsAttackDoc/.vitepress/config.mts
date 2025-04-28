@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:  "/appweb-trpr02-doc/",
+  base:  "/appweb-trpr02-doc//StarWarsAttackDoc/",
   title: "Star Wars Attack",
   description: "Revue de code sur Star Wars Attack",
   themeConfig: {
@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: "Revue de code",
         items: [
-          { text: "Antoine Leclerc", link: "/StarWarsAttackDoc/antoine-leclerc" },
+          { text: "Antoine Leclerc", link: "/antoine-leclerc" },
           { text: "Alexandre Wattel", link: "/alexandre-wattel" },
         ],
       }
